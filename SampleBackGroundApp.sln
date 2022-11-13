@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleBackGroundApp", "SampleBackGroundApp\SampleBackGroundApp.csproj", "{65B0ADD7-CAC4-4FBF-A68F-084D32AB7233}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65B0ADD7-CAC4-4FBF-A68F-084D32AB7233}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65B0ADD7-CAC4-4FBF-A68F-084D32AB7233}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65B0ADD7-CAC4-4FBF-A68F-084D32AB7233}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65B0ADD7-CAC4-4FBF-A68F-084D32AB7233}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DAAE0D7-8499-47D2-98A3-2F2987900EBE}
+	EndGlobalSection
+EndGlobal
